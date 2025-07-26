@@ -1,0 +1,6 @@
+__version__ = "0.5.0"
+__author__ = "Jason Schwefel"
+__email__ = "jason.schwefel78@gmail.com"
+__license__ = "MIT"
+__description__ = "Glue package to make Netbox the source of truth in for DDI."
+__url__ = "https://github.com/jschwefel/netbox-ddi"
